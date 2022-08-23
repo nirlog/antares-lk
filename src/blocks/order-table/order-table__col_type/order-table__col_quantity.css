@@ -1,0 +1,17 @@
+.order-table__col_quantity {
+    width: 269px;
+    text-align: center;
+}
+.order-table__col_quantity > div {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.order-table__in-stock .order-table__col_quantity > div {
+    color:#B5B614;
+}
+
+.out-of-stock .order-table__col_quantity > div  {
+    color: #686868;
+}

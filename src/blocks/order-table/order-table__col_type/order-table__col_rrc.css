@@ -1,0 +1,16 @@
+.order-table__col_rrc {
+    width: 95px;
+    text-align: center;
+}
+
+.order-table__row_value .order-table__col_rrc {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.out-of-stock .order-table__col_rrc {
+    color: #686868;
+}

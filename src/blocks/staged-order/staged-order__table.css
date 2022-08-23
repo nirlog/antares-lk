@@ -1,0 +1,7 @@
+.staged-order__table {
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}

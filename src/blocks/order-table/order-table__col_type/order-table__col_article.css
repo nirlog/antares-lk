@@ -1,0 +1,8 @@
+.order-table__col_article {
+    width: 118px;
+    text-align: center;
+}
+
+.out-of-stock .order-table__col_article {
+    color: #686868;
+}

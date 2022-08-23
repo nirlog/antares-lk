@@ -1,0 +1,12 @@
+.staged-order__table-title {
+    margin: 50px 0 0;
+    padding: 0;
+    height: 40px;
+    background: rgba(181, 182, 20, 0.11);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.staged-order__table-title.out-of-stock {background: rgba(104, 104, 104, 0.12);}

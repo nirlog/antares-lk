@@ -1,0 +1,7 @@
+.order-table__col_name {
+    width: 475px;
+}
+
+.out-of-stock .order-table__col_name {
+    color: #686868;
+}

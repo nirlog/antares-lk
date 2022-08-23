@@ -1,0 +1,12 @@
+.order-table__row_name {
+    height: 40px;
+    text-align: center;
+}
+
+.order-table__in-stock .order-table__row_name {
+    background-color: rgba(181, 182, 20, 0.11);
+}
+
+.order-table__out-of-stock .order-table__row_name {
+    background-color: rgba(104, 104, 104, 0.12);
+}

@@ -1,0 +1,25 @@
+@import url(../blocks/site-page/site-page.css);
+
+@import url(../blocks/staged-order/staged-order.css);
+@import url(../blocks/staged-order/staged-order__header.css);
+@import url(../blocks/staged-order/staged-order__title.css);
+@import url(../blocks/staged-order/staged-order__button.css);
+@import url(../blocks/staged-order/staged-order__total-cost.css);
+@import url(../blocks/staged-order/staged-order__content.css);
+@import url(../blocks/staged-order/staged-order__table.css);
+@import url(../blocks/staged-order/staged-order__table-title.css);
+
+@import url(../blocks/order-table/order-table.css);
+@import url(../blocks/order-table/order-table__row.css);
+@import url(../blocks/order-table/order-table__row_type/order-table__row_title.css);
+@import url(../blocks/order-table/order-table__row_type/order-table__row_name.css);
+@import url(../blocks/order-table/order-table__row_type/order-table__row_value.css);
+@import url(../blocks/order-table/order-table__col.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_photo.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_article.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_name.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_rrc.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_opt.css);
+@import url(../blocks/order-table/order-table__col_type/order-table__col_quantity.css);
+@import url(../blocks/order-table/order-table__quantity-select.css);
+@import url(../blocks/order-table/order-table__quantity-text.css);
